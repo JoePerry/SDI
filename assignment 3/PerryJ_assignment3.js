@@ -83,6 +83,8 @@ var awayteam = {
 				"Phaser, set to stun"
 }
 
+awayteam.crew.push = "Geordi La Forge", and, "Enson Perry"
+
 
 
 
